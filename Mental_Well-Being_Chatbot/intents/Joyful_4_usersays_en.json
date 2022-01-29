@@ -1,0 +1,455 @@
+[
+  {
+    "id": "5024a34d-e732-455c-b121-9f986e0eee24",
+    "data": [
+      {
+        "text": "i dont know why but i am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "fab",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " u lous ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a211b228-93e8-43b5-8865-7a7aa34788a9",
+    "data": [
+      {
+        "text": "i don t feel i need to stop being festive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5a666a1-4141-4a4c-b0e9-77dda79b39f3",
+    "data": [
+      {
+        "text": "i don t always feel quite as graceful but that s a story for another time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5e773ee-8377-4361-994f-13a83bd0356e",
+    "data": [
+      {
+        "text": "i dolphins feel sweet taste of victory defeat ",
+        "userDefined": false
+      },
+      {
+        "text": "cincinnati",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " bengals in overtime a href http twitter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e55e07b1-108c-424c-9f4a-d8993a838ebc",
+    "data": [
+      {
+        "text": "i do what i can to still feel like a valuable member",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faed50fa-1aaf-4832-a231-430772cc51c6",
+    "data": [
+      {
+        "text": "i do wear diapers once in a while but only when i m feeling casual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cc4f359-f32c-4e0e-b396-c0e31dfd2911",
+    "data": [
+      {
+        "text": "i do walk on the treadmill i feel really smug all day so it s worth it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42618370-8849-45c9-a316-1fe018352a1f",
+    "data": [
+      {
+        "text": "i do not feel any regret that is a sorrow for an act or a failure to act because i think my daughter s experience here has been valuable and like most experiences imperfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff4a24c6-03a0-4ed0-8645-1cda30c663f3",
+    "data": [
+      {
+        "text": "i do know that when i see the ",
+        "userDefined": false
+      },
+      {
+        "text": "colour purple",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " it makes me feel calm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a61e118-5884-4305-b4f1-f0c5e1cc8f90",
+    "data": [
+      {
+        "text": "i do hope youre all feeling fab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d86360b3-5da5-4c3e-b744-a034dcca9f69",
+    "data": [
+      {
+        "text": "i do have some pictures in my head of stuff i d like to sew when i get a chance if i m feeling brave i will blog about these projects if for no other reason to make others feel better about themselves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a48ce45-4894-4238-8d1e-102fa4a1bcec",
+    "data": [
+      {
+        "text": "i do feels amazing and is an investment for something greater",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb8e6725-b31d-4801-bfc3-c17f816bb2ef",
+    "data": [
+      {
+        "text": "i do feel very excited about travelling because it s not often that i get to travel and it s definitely not often that i get to do it for free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d9eca64-ceeb-4c19-a3cb-5428e151fb58",
+    "data": [
+      {
+        "text": "i do feel respected where i work though",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e998dd6-0370-43a1-b3ea-76a6b0144609",
+    "data": [
+      {
+        "text": "i do feel productive anyway",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37d7a34-02a8-441c-b358-5732eb659f6a",
+    "data": [
+      {
+        "text": "i do feel privileged to give as dh cannot he was in europe during the mad cow outbreak and they wont allow him to donate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdda3cec-32b0-487e-b958-d4b6a90f96b9",
+    "data": [
+      {
+        "text": "i do feel more productive when the sun shines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f74a64d1-0611-40d3-be06-26c9a2974b3a",
+    "data": [
+      {
+        "text": "i did though and woke up feeling terrific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3922c33b-bb86-42bf-a30d-56f0a3e32588",
+    "data": [
+      {
+        "text": "i did see a few people looking at the points and steps on the board behind me when they forget the next one which made me feel glad to have the aid in the back to prevent me from running back and forth to people who required help constantly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3abaa41-d893-4362-951b-86cbb2caa6d8",
+    "data": [
+      {
+        "text": "i did not feel very much convinced of likelihood of ",
+        "userDefined": false
+      },
+      {
+        "text": "dennis weaver",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " to be using cocaine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f9bba98-9df9-4f4e-b3f9-14996e8783c4",
+    "data": [
+      {
+        "text": "i did not even think to put shoes on i walked on the snow and could feel warmth from the divine love emanating from his spirit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e217e0b-97d6-4462-84f4-63a4bb77c805",
+    "data": [
+      {
+        "text": "i did not directly react to the spot fixing controversy she espressed her feelings feeling on twitter by tweeting the lyrics of a popular bollywood film song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65908859-869e-4887-84e2-adf398c63650",
+    "data": [
+      {
+        "text": "i did find myself wondering just how her stepchildren may feel about featuring so prominently in the book their relationship with valente is not always peaceful and harmonious and she does comment quite frankly on how they made her feel on occasions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85893b30-0904-46a3-abb8-72b35516a6cf",
+    "data": [
+      {
+        "text": "i did feel superior in one thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e1cd07e-8d2c-417a-97fb-a703dd408ce1",
+    "data": [
+      {
+        "text": "i definitely succumbed to pre holiday sales but i feel good going into the holiday season i probably shouldnt say that though",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b6c38db-246a-408f-85a7-5a514c678198",
+    "data": [
+      {
+        "text": "i definitely feel appreciative of my boyfriend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b06b7bf-ddef-42f4-a77e-25c664e5cff6",
+    "data": [
+      {
+        "text": "i couldn t help but feel as if rin was not as strong as a protagonist as ",
+        "userDefined": false
+      },
+      {
+        "text": "isi enna",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " or razo i did end up finding a lot to like in forest born",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44e259df-71dd-44f7-a7d0-2392b06c7fe1",
+    "data": [
+      {
+        "text": "i could go on and on right now about what weve been through ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and what ive learned what ",
+        "userDefined": false
+      },
+      {
+        "text": "micah",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " could do when and such but i wont because this would be a book and honestly im not feeling fabulous today and micah has been dealing with a giant cold since thursday and we are wiped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d21133fc-d1f5-4ade-836a-83fbfa4a627b",
+    "data": [
+      {
+        "text": "i could feel the muscles in my arches ankles and calves working to support my stride and i felt so much more graceful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "aae2391e-771f-4991-af1e-71c8574e7c16",
+    "data": [
+      {
+        "text": "how to meditate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11f972f9-8a9b-43bd-9c27-6b1838de7303",
+    "data": [
+      {
+        "text": "How to do meditation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

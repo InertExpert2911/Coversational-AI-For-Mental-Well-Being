@@ -1,0 +1,383 @@
+[
+  {
+    "id": "e423b4ee-3c37-4e6a-94dd-14150826d40c",
+    "data": [
+      {
+        "text": "i am feeling more and more eager to get on with my move",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb2e599d-9689-4fa6-95a7-8dd5616c9fb8",
+    "data": [
+      {
+        "text": "i am feeling inspired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e5c8b29-c8c9-40dc-9f7e-4df16428928a",
+    "data": [
+      {
+        "text": "i am feeling fine i guess",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e729ac4-af7a-4660-bd2c-28c472606a5a",
+    "data": [
+      {
+        "text": "i am feeling brave i will attempt it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f653ca6-085b-404c-9e93-e320b7b8abc8",
+    "data": [
+      {
+        "text": "i am feeling better right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f47a4be-a1aa-46eb-9007-c52350497ce9",
+    "data": [
+      {
+        "text": "i am feeling a little happy with him",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d330e4a-6508-4f5e-8a55-cbfe86f43e0b",
+    "data": [
+      {
+        "text": "i am doing this namely for myself but i feel that anything i write might be useful to someone else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1d92caf-b5fe-4d05-a8e0-65f582e3a7c9",
+    "data": [
+      {
+        "text": "i am beginning to feel like a fabulous adult",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a411725-00fd-4104-a341-7c489aa3fb51",
+    "data": [
+      {
+        "text": "i am awake again early enough to see the dark of the night turn to the soft half light of dawn and feel the cool breeze change from a misty foggy coldness to a freshness which heralds a nice day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f65f207-7185-4f1a-95b3-ce8b4ed83041",
+    "data": [
+      {
+        "text": "i am at day and i am feeling terrific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46a08e92-6e9c-4bb8-b936-edaeef7ff269",
+    "data": [
+      {
+        "text": "i am asked to lead a prayer meeting i feel a solemn responsibility to prepare myself spiritually and to plan carefully",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "796da035-752f-4933-8e83-228b08fe2dcc",
+    "data": [
+      {
+        "text": "i am actually feeling a little triumphant watching this economic crisis unfold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bc71307-6b98-428f-9182-401fa212549c",
+    "data": [
+      {
+        "text": "i am a big believer in the phrase that some people are all style no substance and i feel that if you have nothing worthwhile to say just dont say it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33f57731-2c92-480e-a00b-d21a0d2a5849",
+    "data": [
+      {
+        "text": "i always want my guests to know how much i appreciate them coming to visit so i strive to really make them feel welcomed and loved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0296472-0784-4e76-97f3-2e5515444ce9",
+    "data": [
+      {
+        "text": "i always feel triumphant when my recycling bin is brimming over and my garbage ",
+        "userDefined": false
+      },
+      {
+        "text": "bin",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " contains only household scraps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46932503-035b-4cc7-9570-cd3242d19ce8",
+    "data": [
+      {
+        "text": "i always feel fearless ",
+        "userDefined": false
+      },
+      {
+        "text": "january",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " st",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8276e324-51ca-412b-bf05-40ff9ca0c7ff",
+    "data": [
+      {
+        "text": "i always feel accepted by them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55d7ed10-ee01-4659-a030-f4f54e49c85d",
+    "data": [
+      {
+        "text": "i alternate between feeling perfectly happy with this plan and very sad and disappointed that we dont get to experience a real vaginal birth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b412148d-7083-4520-891c-fe303a13accf",
+    "data": [
+      {
+        "text": "i also reply to most comments so please feel free to share your thoughts and let s talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a25a75-b0b6-4610-b20e-418011cf4314",
+    "data": [
+      {
+        "text": "i also remember feeling like all eyes were on me all the time and not in a glamorous way and i hated it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbf87ecf-d7e6-4f55-bd5a-f461f9de712c",
+    "data": [
+      {
+        "text": "i also loved bruise brothers it was so much fun playing alongside so many brilliant skaters and feeling useful on track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e2b1005-d33d-46a6-a13f-4914a485ecf0",
+    "data": [
+      {
+        "text": "i also find that it gives me a light energy lift and maybe this is my imagination but i also feel a connection and partnership with my plant friends which is a terrific way to start off the gardening season which i did in earnest this weekend and will post details of during the week ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14267ea9-a463-4eca-8d0f-af02362c04d6",
+    "data": [
+      {
+        "text": "i also feel slightly relieved that we didnt have it out with him about the racist language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a25d765-5e8d-41d2-b064-d5f0b0fe36bb",
+    "data": [
+      {
+        "text": "i also feel that it should be ",
+        "userDefined": false
+      },
+      {
+        "text": "pence",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " as i am sure readers will not mind paying that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed65077-5e92-419e-9b8d-abf07eaa7db8",
+    "data": [
+      {
+        "text": "i also feel valued as a whipping girl for him to take out frustration and anger on maybe to a bit less of a degree than i would like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a6efb98-7807-4a3f-8a54-c0848fdc49ae",
+    "data": [
+      {
+        "text": "i already feel very glamorous have a great day everybody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2c31ce-1786-4cc2-b987-c9de10916dbd",
+    "data": [
+      {
+        "text": "i almost feel as if i am paving the way to the more pleasant memory that prabhupada saved me and that my life now is real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

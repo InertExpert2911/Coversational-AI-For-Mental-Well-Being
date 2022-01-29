@@ -1,0 +1,113 @@
+{
+  "id": "55c4a839-5bbb-4a85-9e2d-ace2d5c52465",
+  "name": "Anger_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "92039eb7-229f-4801-8de8-4534178e752a",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1a791b85-a0d3-499c-a8bb-b526938f602e",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ab496fd6-3d5c-4900-bad3-997627a995ae",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d7d9d7ed-e58b-4350-985b-3d344d38674d",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a59824df-a176-4ea0-8b29-738bd83a14f4",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tell yourself to calm down. Slowly repeat gentle phrases to yourself like “take it easy,” “cool off,” or whatever works for you.",
+            "Force yourself to leave the situation. Take a time out, walk away, and avoid coming back too soon. Take a walk or go for a run.",
+            "Use visualization to calm down. Close your eyes and picture yourself in your favorite place.",
+            "Count to 10 (or 50… or 100) if you feel like you’re about to do or say something harmful. It’s a quick, easy way to separate yourself mentally from the situation.",
+            "Splash some cold water on your face.",
+            "Slow down and focus on your breathing. Conscious breathing involves taking slow, deep breaths in through your nose, and slowly out through your mouth.",
+            "Phone a friend. Do you have a supportive friend or family member who can lend an ear and calm you down?",
+            "Try to replace negative, angry thoughts with positive, rational ones. Even if you’re feeling upset, remind yourself that getting angry isn’t going to fix the way that you’re feeling."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

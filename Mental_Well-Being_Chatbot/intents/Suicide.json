@@ -1,0 +1,41 @@
+{
+  "id": "8ec6d6a3-98dd-4c56-a437-ed310450c6ba",
+  "name": "Suicide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Don\u0027t say that!!!!",
+            "I believe that you can achieve something great.",
+            "Death is not a solution for every problem.",
+            "Life is short and beautiful.",
+            "You have great life ahead. So, stay positive.",
+            "Every problem will make you fell like that. But, they pass everything will be good.",
+            "Stay calm."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

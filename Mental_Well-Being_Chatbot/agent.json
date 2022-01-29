@@ -1,0 +1,61 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Mental‎‎_Well-Being_Chatbot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "small-talk-4-vabuve",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "b2a08e4e-a964-483a-a37e-ed8e03422fdd"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "14a69c89a6254edebaaccfe1a9ae5630",
+  "analyzeQueryTextSentiment": true,
+  "enabledKnowledgeBaseNames": [
+    "projects/mental-well-being-chatbot-egcx/knowledgeBases/NjA5MjYwNjEzNTI1MDk3Njc2OA",
+    "projects/mental-well-being-chatbot-egcx/knowledgeBases/MzIxMDMwMjM3MzczMzg1OTMyOA",
+    "projects/mental-well-being-chatbot-egcx/knowledgeBases/MTE2NTIxNTkxMzc3NTE0OTg3NTI"
+  ],
+  "knowledgeServiceConfidenceAdjustment": -0.5,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}

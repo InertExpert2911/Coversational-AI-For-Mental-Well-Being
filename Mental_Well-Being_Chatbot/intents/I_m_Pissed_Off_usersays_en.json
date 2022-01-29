@@ -1,0 +1,28 @@
+[
+  {
+    "id": "55b31fdb-34a1-4428-851c-1c2dab51d8a8",
+    "data": [
+      {
+        "text": "pissed off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73320672-d9ee-42f3-80ac-780acb63c9b7",
+    "data": [
+      {
+        "text": "I am pissed off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

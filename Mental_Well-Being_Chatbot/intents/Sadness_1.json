@@ -1,0 +1,116 @@
+{
+  "id": "bee42a1f-f42a-40b6-8d45-d08ad74bf33d",
+  "name": "Sadness_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e3b2b8e-c60f-41b2-b324-f2a2469b0c85",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f8aee75d-6f28-4526-b819-6dbecd33fae0",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5a4a756a-c164-453b-bcd9-0ba39392f9ea",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4878fcf2-eb22-488d-acbd-9e27597a2b2b",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8839400e-8666-416d-b8b3-4bd1765d2117",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It\u0027s going to get harder before it gets easier. But it will get better. You just have to make it through.",
+            "Life has many ways of testing a person’s will, either by having nothing happen at all or by having everything happen all at once.",
+            "Sometimes life doesn\u0027t give you something you want, not because you don\u0027t deserve it, but because you deserve more",
+            "What brings us to tears, will lead us to grace. Our pain is never wasted",
+            "The perfected future never arrives. Life is full of seemingly endless trouble, and then life ends. Find peace in the imperfect present",
+            "Don’t desire happiness because it creates only unhappiness and nothing else.",
+            "People cry, not because they’re weak. It’s because they’ve been strong for too long",
+            "Don\u0027t feel down, you are stronger than you think",
+            "Those who do not weep, do not see.",
+            "Difficult roads always lead to beautiful destinations.",
+            "Turn your wounds into wisdom"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

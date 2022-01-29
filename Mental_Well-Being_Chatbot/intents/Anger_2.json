@@ -1,0 +1,127 @@
+{
+  "id": "9753348d-8879-40e1-99a4-f8145611287f",
+  "name": "Anger_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e92ce8d5-f259-4335-964e-7350c5c6f201",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "97d86722-85b9-4bb4-85c3-54a9dc682a53",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "91783171-28f5-483a-b404-07ee55108e4b",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3023d319-5860-405b-85e8-894810e0e6fd",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "66f297df-1bac-4633-a691-134c1f99e790",
+          "name": "geo-city1",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "46e6c8ab-40bd-40b1-85f6-2a6a3d5602d2",
+          "name": "geo-city2",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Breathe.\nBreathing is the number one and most effective technique for reducing anger and anxiety quickly,",
+            "Admit that you’re anxious or angry.\nAllow yourself to say that you’re anxious or angry. When you label how you’re feeling and allow yourself to express it.",
+            "Challenge your thoughts.\nPart of being anxious or angry is having irrational thoughts that don’t necessarily make sense. These thoughts are often the “worse-case scenario",
+            "Release the anxiety or anger.\n Go for a walk or run. In some physical activity [releases] serotonin to help you calm down and feel better.",
+            "Visualize yourself calm.\nThis tip requires you to practice the breathing techniques you’ve learned.",
+            "Listen to music.\nThe next time you feel your anxiety level cranking up, grab some headphones and tune in to your favorite music.",
+            "Change your focus.\nLeave the situation, look in another direction, walk out of the room, or go outside.",
+            "Relax your body.\nWhen you’re anxious or angry, it can feel like every muscle in your body is tense."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "126955f7-8fb7-48f8-a788-5c96925a2c7f",
+  "name": "Anger_5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56efedcc-23f4-4a07-922f-590de8da15dd",
+          "name": "time-period",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "value": "$time-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8d81d9ae-1b1d-4f85-9924-e6b31deb01e2",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d8ef9be8-1a7f-4edc-84e2-a09bf9a80c03",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c017dcef-952e-4010-92fa-f6bc28a77f37",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "12e1f10e-66c6-45e0-b2a2-54c45cf37f63",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "152cd999-cbd5-4f3c-8163-7a408321e7ac",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Breathe.\nBreathing is the number one and most effective technique for reducing anger and anxiety quickly,",
+            "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+            "Try meditating. It seems to be helpful",
+            "Challenge your thoughts.\nPart of being anxious or angry is having irrational thoughts that don’t necessarily make sense. These thoughts are often the “worse-case scenario",
+            "Release the anxiety or anger.\n Go for a walk or run. In some physical activity [releases] serotonin to help you calm down and feel better.",
+            "Change your focus.\nLeave the situation, look in another direction, walk out of the room, or go outside.",
+            "Tell yourself to calm down. Slowly repeat gentle phrases to yourself like “take it easy,” “cool off,” or whatever works for you."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Slow down and focus on your breathing. Conscious breathing involves taking slow, deep breaths in through your nose, and slowly out through your mouth.",
+            "Try to replace negative, angry thoughts with positive, rational ones. Even if you’re feeling upset, remind yourself that getting angry isn’t going to fix the way that you’re feeling."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

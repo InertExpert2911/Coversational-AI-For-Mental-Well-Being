@@ -1,0 +1,115 @@
+{
+  "id": "10672154-b4bd-4cc8-9b74-21451c23572b",
+  "name": "Sadness_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5fbf14b9-5192-4257-8ab6-347dd4e4e543",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "18b0da9d-7b5e-4e7f-b4e4-22751ed8a669",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7b3af091-7588-484f-9cea-7b83db8f55a6",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1e343191-7c44-415c-ade6-16f9d0095331",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7eddecb7-19e5-4c92-bb57-87b90a2e5091",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Did you know, life is not easy there are so many barriers in everyone’s lives and they will always try to stop you from making good changes.",
+            "If you can sit with your pain, listen to your pain, and respect your pain—in time you will move through your pain.",
+            "Don’t ignore the lessons of pain nor walk the same path again, or it may happen again. Strive to preserve your new-found peace.",
+            "Use the pain in you passed as a fuel. The fuel that will drive you to a better future.",
+            "The reason it hurts so much to separate is because our souls are connected.",
+            "There is one pain, I often feel, which you will never know. It’s caused by the absence of you.",
+            "Experiencing sadness and anger can make you feel more creative, and by being creative you can get beyond your pain or negativity",
+            "There is no greater sorrow than to recall in misery the time when we were happy.",
+            "The word ‘happy’ would lose its meaning if it were not balanced by sadness.",
+            "There is some kind of a sweet innocence in being human- in not having to be just happy or just sad- in the nature of being able to be both broken and whole, at the same time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

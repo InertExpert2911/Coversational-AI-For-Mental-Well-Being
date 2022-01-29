@@ -1,0 +1,88 @@
+{
+  "id": "598c82a0-621c-420f-8e31-d93a258b9346",
+  "name": "Love_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b631b26a-d81c-47c0-9cfa-e69afe6e0b19",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "622aa7c6-1694-4c86-9adb-bca3f9aaeb11",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b5233672-aaf0-4d18-93d8-05ab5a74221a",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I love you way more.",
+            "Thank you for loving me.",
+            "I am so obsessed with you.",
+            "No, I love you!",
+            "There is nothing better than hearing you say that.",
+            "You are the only person who can make me smile constantly.",
+            "You are so wonderful that you always make me forget words.",
+            "I am so lucky to have your love in my life.",
+            "I feel the same way, and darling, I can do anything to prove it to you.",
+            "Your words are like sweet treats: So sweet!",
+            "I love you to infinity and back."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

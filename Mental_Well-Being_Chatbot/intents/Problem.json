@@ -1,0 +1,38 @@
+{
+  "id": "a0ae34e3-82c0-440d-ae42-8aaf96c83615",
+  "name": "Problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, tell me. I am all ears.",
+            "Problems are meant to overcome.",
+            "Problem is just a phase. I was built with many problems and I managed to overcome them.",
+            "They are hard, but they are worth while."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

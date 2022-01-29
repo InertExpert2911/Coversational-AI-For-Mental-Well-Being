@@ -1,0 +1,102 @@
+{
+  "id": "74f211f1-6d4d-4fb6-946f-f02daf0ce3d7",
+  "name": "Sadness_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "50138883-c94f-45b2-aa36-31fdad463486",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ee137928-09c6-446d-8f18-230b034f0e7f",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8ab24bf6-5c60-4b9e-a9a0-3e4adc0bed9c",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "980de43d-80ac-4909-a997-af6d991ee9c5",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Calm down its normal for every human being...Your not alone in this though.",
+            "Here is hope, even when your brain tells you there isn’t.",
+            "Give yourself another day, another chance. You will find your courage eventually. Don’t give up on yourself just yet.",
+            "You say you’re ‘depressed’ – all I see is resilience. You are allowed to feel messed up and inside out. It doesn’t mean you’re defective – it just means you’re human.",
+            "Those who have a ‘why’ to live, can bear with almost any ‘how’.",
+            "Even if happiness forgets you a little bit, never completely forget about it.",
+            "Suffering has been stronger than all other teachings and has taught us to understand what our heart used to be. we have been\nbent and broken, but – we hope – into a better shape.",
+            "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+            "Remember always that you not only have the right to be an individual, you have an obligation to be one",
+            "It’s one of the greatest gifts you can give yourself, to forgive. Forgive everybody.",
+            "Sadness flies away on the wings of time"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

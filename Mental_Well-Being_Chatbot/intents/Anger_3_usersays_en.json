@@ -1,0 +1,512 @@
+[
+  {
+    "id": "0c3b8f9f-6c99-4cd4-8c79-cce7215ffebe",
+    "data": [
+      {
+        "text": "i feel grouchy ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fad129e9-9fb6-49e2-a420-ee20422cf3ae",
+    "data": [
+      {
+        "text": "i feel grouchy ",
+        "userDefined": false
+      },
+      {
+        "text": "at one",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " point then it changes to a panic then to having this feeling like someone or something is after me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e346d484-1bd5-424e-9774-bcbbb15907e5",
+    "data": [
+      {
+        "text": "i feel grouchy and i cannot think properly when i am deprived of food for ",
+        "userDefined": false
+      },
+      {
+        "text": "more than two hours",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9624294b-2d36-4007-992d-1c6ce1227d2e",
+    "data": [
+      {
+        "text": "i feel greedy to want it to recede some more but there you have it i do want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43d7b26a-95dd-4c4c-a8e9-f228b6a4081d",
+    "data": [
+      {
+        "text": "i feel fucked tape re recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6904f098-3973-4b52-92ec-798471f00d96",
+    "data": [
+      {
+        "text": "i feel frustrated that i cant answer questions for distributors or customers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46872b87-02f1-4fab-bdee-b286ad5214de",
+    "data": [
+      {
+        "text": "i feel frustrated cause i think i know whats best",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba473d34-d075-47a6-bbe7-d2ab152ef52d",
+    "data": [
+      {
+        "text": "i feel food smarter already and slightly annoyed calories counting is so annoying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "586fb516-4ace-4542-a2c0-33a00867ba30",
+    "data": [
+      {
+        "text": "i feel disgusted that a situation like this had to happen in the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faae66c6-1942-4ee3-b5e1-54c60362dd95",
+    "data": [
+      {
+        "text": "i feel disgusted by u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "234e5b43-2427-4c66-a5d8-c3ba21fcc55c",
+    "data": [
+      {
+        "text": "i feel disgusted by most people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e473c60-7119-4eff-8438-d572f73b5c47",
+    "data": [
+      {
+        "text": "i feel disgusted and lose respect for them as a lady he said",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6134f20d-e4de-42b8-8a28-5bb4a4503645",
+    "data": [
+      {
+        "text": "i feel complimented or insulted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a50b6604-62d5-45b0-ae38-df6155b979bd",
+    "data": [
+      {
+        "text": "i feel cold in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0aedca5-13eb-46dc-920d-8670d1e49d92",
+    "data": [
+      {
+        "text": "i feel bitter about me being like this but then i really am not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "566e6ea8-0495-4d9d-a496-0d76ca3b8b4c",
+    "data": [
+      {
+        "text": "i feel bitchy but not defeated yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d559c6e0-2f46-49d9-871c-b15349126b2b",
+    "data": [
+      {
+        "text": "i feel as though ",
+        "userDefined": false
+      },
+      {
+        "text": "marjane",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " had to live a very rushed childhood not so much for what was happening in her surroundings but because of her eager need to know everything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c4e5d2e-ecdb-4709-9460-c86b70d29c01",
+    "data": [
+      {
+        "text": "i feel as if there is anyone who really understands the insincere motives of females its me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b8dd02b-f787-4553-aa74-2e68e9a851ac",
+    "data": [
+      {
+        "text": "i feel as hungers savage tooth and when no dinner is in sight the dinner bells a sound of ",
+        "userDefined": false
+      },
+      {
+        "text": "ruth",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "707c7345-7fc1-4d12-9281-143f691cd03a",
+    "data": [
+      {
+        "text": "i feel appalled at my sadness and hurt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d97de609-c660-4e9e-91a2-9dbf18593d1c",
+    "data": [
+      {
+        "text": "i feel angered by this and confused on how she could remarry already and especially to my father s own brother",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9927252d-66b7-4317-ba90-ee4c22ae0d3c",
+    "data": [
+      {
+        "text": "i feel about ",
+        "userDefined": false
+      },
+      {
+        "text": "petty",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee21c5f0-2cc7-420b-94ce-3e5c1205e5a0",
+    "data": [
+      {
+        "text": "i feel a ",
+        "userDefined": false
+      },
+      {
+        "text": "tad",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " bit envious of my younger self i was in great running shape ",
+        "userDefined": false
+      },
+      {
+        "text": "young",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " and had my whole life ahead of me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87c861cb-874b-454d-a90b-9ad09fe3c67d",
+    "data": [
+      {
+        "text": "i feel a ",
+        "userDefined": false
+      },
+      {
+        "text": "petty",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " sting of worry that i wont have tv reception for the breeders cup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7267c002-dd3c-4deb-a15f-c29ffb5083a5",
+    "data": [
+      {
+        "text": "i feel a flare of anger because it still pains me to think of mal being abused like that but i can t help wonder now if he might be right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59b67101-fcd0-4496-8918-1aba9bfd40eb",
+    "data": [
+      {
+        "text": "i feel a cold or sore throat coming on i simply use a onguard regime to nip it in the ",
+        "userDefined": false
+      },
+      {
+        "text": "bud",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50daf174-def7-4520-aae9-dbc955b24d67",
+    "data": [
+      {
+        "text": "i feel a bit ",
+        "userDefined": false
+      },
+      {
+        "text": "rude",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " leaving you hanging there from my last post with an almost done room and then radio silence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73e98f1d-979b-4152-b536-193762c74196",
+    "data": [
+      {
+        "text": "i feel a bit dissatisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff086b3-e3fc-4e28-bc3d-9debf7243f0c",
+    "data": [
+      {
+        "text": "i feel a bit bitchy ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " lt take a look its free and it doesnt concern you so i was reading the critics for mamma ",
+        "userDefined": false
+      },
+      {
+        "text": "mia",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0af987b5-0be8-43fd-ac58-010a44b22c77",
+    "data": [
+      {
+        "text": "i enjoyed it for the most part for an entertainment value due to it being a fast and mostly fun read i also had several qualms with it at the same time that left me feeling dissatisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

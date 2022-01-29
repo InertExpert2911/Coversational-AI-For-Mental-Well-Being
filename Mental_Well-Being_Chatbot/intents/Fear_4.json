@@ -1,0 +1,94 @@
+{
+  "id": "83bc11a3-7beb-41da-86d3-b22648d354fa",
+  "name": "Fear_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "22162710-dc87-47c8-9c1f-a8e1a99ce501",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "db0dea81-daa9-459f-b61d-67fb97af26ba",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "833cbf0b-5203-447c-bb82-b71605add349",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold.",
+            "One of the greatest discoveries a man makes, one of his great surprises, is to find he can do what he was afraid he couldn’t do.",
+            "Fears are nothing more than a state of mind.",
+            "The eagle has no fear of adversity. We need to be like the eagle and have a fearless spirit of a conqueror!",
+            "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+            "Nothing in life is to be feared for.",
+            "Being brave isn’t the absence of fear. Being brave is having that fear but finding a way through it.",
+            "Being brave is having that fear but finding a way through it.",
+            "Never let the fear of striking out get in your way.",
+            "Do the thing we fear, and death of fear is certain.",
+            "Fear has its use, but cowardice has none.",
+            "Fear comes from uncertainty.",
+            "Fear not, we are of the nature of the lion, and cannot descend to the destruction of mice and such small beasts.",
+            "Action cures fear, inaction creates terror.",
+            "Living with fear stops us taking risks, and if you don’t go out on the branch, you’re never going to get the best fruit.",
+            "You just have to get rid of fear and confront the world.",
+            "Do the thing you fear to do and keep on doing it… that is the quickest and surest way ever yet discovered to conquer fear."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

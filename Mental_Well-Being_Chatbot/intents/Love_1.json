@@ -1,0 +1,43 @@
+{
+  "id": "1569c9ab-960b-47c8-8c57-9be33b19f621",
+  "name": "Love_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There is nothing better than hearing you say that.",
+            "You are the only person who can make me smile constantly",
+            "Roses are red. Violets are blue. Sugar is sweet. And so are you.",
+            "You’re the only person who makes me smile constantly.",
+            "If we could categorize people, you’d be the best kind.",
+            "Ah, those are the words I love to hear from you the most.",
+            "Oh, that is so cute. I love it when you say cute things like that.",
+            "If this was all a dream, I\u0027d choose not to wake up.",
+            "I\u0027m so happy you told me."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

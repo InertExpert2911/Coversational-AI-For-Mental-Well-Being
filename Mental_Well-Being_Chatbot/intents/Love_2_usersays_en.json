@@ -1,0 +1,500 @@
+[
+  {
+    "id": "359acd2a-58c5-4887-a0ab-21601405bef3",
+    "data": [
+      {
+        "text": "i feel for you despite the bitterness and longing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33debd57-1942-40b5-a794-c0c08a72f77d",
+    "data": [
+      {
+        "text": "i feel for him and im sympathetic because i have known people who have struggled with alcohol and drug addiction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f54e1134-4a21-4d50-884c-2d37169802c1",
+    "data": [
+      {
+        "text": "i feel extremely passionate about this topic because that person used to be me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "056f8361-ff2f-498d-90bd-ae1874e4f865",
+    "data": [
+      {
+        "text": "i feel extraordinarily horny like fucking a great deal of people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea7680ff-c4de-4a1e-a1d4-84b49322da97",
+    "data": [
+      {
+        "text": "i feel enough something way deeper and sincere than love",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a20a0ad5-a3e2-46c9-b2dd-e50758bcc76c",
+    "data": [
+      {
+        "text": "i feel blessed ",
+        "userDefined": false
+      },
+      {
+        "text": "harper",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " hasnt come down with anything worse but i know its only a matter of time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eb4759b-76be-442a-9de0-ea0c8becc2ce",
+    "data": [
+      {
+        "text": "i feel badly about reneging on my commitment to bring donuts to the faithful at holy family catholic church in ",
+        "userDefined": false
+      },
+      {
+        "text": "columbus",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ohio",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4fb42a0-ff35-4f82-8f58-be5120def5c8",
+    "data": [
+      {
+        "text": "i feel at this point i have to give some credit to my beloved former teacher ",
+        "userDefined": false
+      },
+      {
+        "text": "ajahn brahmavamso",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " as well as all other little and big gurus and lovers i had in my life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10abe7f0-5a5b-4a99-9be9-72b460cbf82d",
+    "data": [
+      {
+        "text": "i feel as if i am the beloved preparing herself for the wedding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7dd004f-5313-4b2b-8aef-a6913192b8c1",
+    "data": [
+      {
+        "text": "i feel accepted and loved and forgiven the grace of god is so healing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f942cfec-d913-4717-b7cf-af2f3314dbd9",
+    "data": [
+      {
+        "text": "i feel about ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " of my most beloved songs of all time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fef0f86b-7820-433b-9a0a-54b96c992239",
+    "data": [
+      {
+        "text": "i feel a sort of sweet relief when i look around and realize that or house looks like a home not a radio shack and that makes me happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d4eeec0-6cb3-408f-9285-5af97104d2c8",
+    "data": [
+      {
+        "text": "i feel a longing to begin and to be there even right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7f6abbc-3acc-414b-80a0-04ae0feb9e98",
+    "data": [
+      {
+        "text": "i feel a little naughty whenever i wear such a colour combo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86f9db83-f09b-40df-8ad8-73e35044a3ae",
+    "data": [
+      {
+        "text": "i feel a little bit more nostalgic when those memories come to mind\n i especially enjoyed listening to shotgun lovesongs on audio book as it just seemed to give even more depth and feeling to what is truly a very special novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8577b74e-258d-413b-bde8-c9675b221b0d",
+    "data": [
+      {
+        "text": "i especially enjoyed listening to shotgun lovesongs on audio book as it just seemed to give even more depth and feeling to what is truly a very special novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40565d6f-5b75-4368-bfa9-4a550dee5923",
+    "data": [
+      {
+        "text": "i eat or sleep i cant get myself to feel the life loving energy i felt so easily before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0eb6614-5b61-4a17-8dab-d85904f6b9d7",
+    "data": [
+      {
+        "text": "i dunno it feels like you should be since she is the most god damn beloved character in the game right next to ",
+        "userDefined": false
+      },
+      {
+        "text": "rinoa",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32b437c-99ea-4900-8a1d-f65d8f61dc51",
+    "data": [
+      {
+        "text": "i dont remember a day i was not romantic and feel passionate about the feeling of life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea648e70-108c-4a87-a87b-861ea931d713",
+    "data": [
+      {
+        "text": "i dont know if it was because i almost got a feeling that he actually might like me or if it was because i got the feeling that he liked olivia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75501d59-721b-4f8f-804c-0cdc6be05b88",
+    "data": [
+      {
+        "text": "i don t need to drop feelings like a hot potato or slam the door shut on them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bc60349-c2cd-4f4a-9c71-4826893c683e",
+    "data": [
+      {
+        "text": "i don t like orange but ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " i m feeling strangely sympathetic towards it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab255fd4-b42c-465f-882a-40dc20b44e08",
+    "data": [
+      {
+        "text": "i don t feel all that romantic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8bcd9e9-c54e-4152-8cb9-8fe63e4cf1e1",
+    "data": [
+      {
+        "text": "i do love the idea of having slave brothers but not at expense that i feel ignored lonely and frustrated and so depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73dc97b0-dd79-4550-9cad-964654a59345",
+    "data": [
+      {
+        "text": "i do go for days as has happened recently i feel clearer and more compassionate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c17e013-1ff1-4b69-9a63-fe4525684f7c",
+    "data": [
+      {
+        "text": "i didnt feel as if i impressed the motherlover",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d51fabf-7c4c-441b-8541-b64ca57d5bfe",
+    "data": [
+      {
+        "text": "i didn t consider that she maybe had difficulty in feeling accepted into a certain group of people and she was afraid of being rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc243c6f-a008-4a21-9215-e8871129c564",
+    "data": [
+      {
+        "text": "i did not even think to put shoes on i walked on the snow and could feel warmth from the divine love emanating from his spirit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd86e3b2-94f5-4e24-9cc1-f0a522daf031",
+    "data": [
+      {
+        "text": "i definitely feel like those are tender mercies from ",
+        "userDefined": false
+      },
+      {
+        "text": "heavenly",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " father",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfe51b3a-dff7-4a67-b74e-1d3444fe4c0b",
+    "data": [
+      {
+        "text": "i couldnt hellip even when it made my heart ache to simply look at you hellip because i loved you so much and i knew you would never return my feelings hellip and i couldnt bring myself to hate you for the idiotic stunt you pulled in the other room either though i do ask that you dont repeat it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08d5b82b-7e83-43c8-b0e4-753d26366619",
+    "data": [
+      {
+        "text": "i could still feel all romantic ish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e5a0d5a-0588-421f-8805-3d6d5a930ef4",
+    "data": [
+      {
+        "text": "i could make just ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " person feel loved for just a mere moment then my job here on earth has been fulfilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "id": "c2f9d061-23b2-4cc2-837a-59d334035800",
+  "name": "Fear_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0592b96f-30d7-467a-937b-77d1fb731c2d",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2a785979-ef28-44de-bcaa-3d87ba765aee",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ef8dd450-f3df-4541-989f-fc2637fbe4cc",
+          "name": "date-period1",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9552c6c9-0b69-40da-ad45-4c649759de43",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Fears are educated into us, and can, if we wish, be educated out",
+            "Curiosity will conquer fear even more than bravery will.",
+            "Ignorance is the parent of fear",
+            "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
+            "“Who sees all beings in his own self, and his own self in all beings, loses all fear.”",
+            "Where no hope is left, is left no fear",
+            "“Fear is only as deep as the mind allows.”",
+            "The only thing we have to fear is fear itself",
+            "To overcome fear, here’s all you have to do: realize the fear is there, and do the action you fear anyway",
+            "“Fear is the lengthened shadow of ignorance.”",
+            "“Fear is pain arising from the anticipation of evil.”"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

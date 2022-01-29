@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8baf0555-3d38-435a-ac9a-2868053578d9",
+    "data": [
+      {
+        "text": "break up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c11a228-ce65-43bf-be19-adb364eadf88",
+    "data": [
+      {
+        "text": "I broke up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

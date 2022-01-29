@@ -1,0 +1,73 @@
+{
+  "id": "aec61853-1499-4d8e-8d29-4ab837cea12d",
+  "name": "Joyful_1",
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1f059278-965a-40da-90d4-91c17f3c85bc",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "899e6a99-6ce6-487b-a2c1-fde6d2e12ddf",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My mother always used to say: The older you get, the better you get, unless you’re a banana.",
+            "Gentlemen, you can’t fight in here. This is the war room.",
+            "I’m not superstitious, but I am a little stitious.",
+            "I walk around like everything’s fine, but deep down, inside my shoe, my sock is sliding off.",
+            "I used to sell furniture for a living. The trouble was, it was my own.",
+            "Someone asked me, if I were stranded on a desert island what book would I bring: ‘How to Build a Boat.’",
+            "I’m not insane. My mother had me tested.",
+            "If I’m not back in five minutes, just wait longer.",
+            "The only thing that separates us from the animals is our ability to accessorize.",
+            "I’m at a place in my life when errands are starting to count as going out.",
+            "A day without sunshine is like, you know, night."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ac157e68-92db-4d09-8866-790bcc43ba0f",
+  "name": "Sadness_5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "99c32c7c-e128-48e0-a50e-8f0deac4fa05",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3e146373-aa94-4259-84f3-e032a9e64308",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1012fbe2-4711-4553-b245-826c7dad6acd",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b4b39848-9c90-4d86-81ba-316184c212e5",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The sad truth is that opportunity doesn’t knock twice. - Gloria Estefan",
+            "A million words would not bring you back, I know because I tried, neither would a million tears, I know because I cried.",
+            "When you’re happy you enjoy the music, but when you’re sad you understand the lyrics.",
+            "Breathing is hard. When you cry so much, it makes you realize that breathing is hard.",
+            "Sometimes it takes sadness to know happiness, noise to appreciate silence and absence to value presence.",
+            "Sometimes you laugh because you’ve got no more room for crying.",
+            "I learned how to be happy because I know what unhappiness felt like.",
+            "Perhaps, somewhere, some day, at a less miserable time, we may see each other again.",
+            "Sometimes you\u0027ve got to be able to listen to yourself and be okay with no one else understanding.",
+            "Blaming other people for things that are going wrong guarantees your continued misery.",
+            "One thing you can\u0027t hide — is when you\u0027re crippled inside.",
+            "Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

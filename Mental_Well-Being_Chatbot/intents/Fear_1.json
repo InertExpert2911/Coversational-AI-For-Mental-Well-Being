@@ -1,0 +1,117 @@
+{
+  "id": "3357fda1-2f7c-482c-b2fc-a19214d3939c",
+  "name": "Fear_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1088f9c8-7b1e-42ab-9447-18a8ee3a2689",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c8bd6686-0e94-4edd-8155-1d9ab551e8a6",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b5a9f2e9-8887-46e1-b63f-285e3d8de1eb",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dca74dcf-08ca-42c5-87eb-b0e5fabfb6e2",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0f054645-e3f0-40f5-83c3-ed07fc60a3c1",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"The brave man is not he who does not feel afraid, but he who conquers that fear.\"\n--Nelson Mandela",
+            "\"Nothing in life is to be feared. It is only to be understood.\u0027\n--Marie Curie",
+            "\"Decide that you want it more than you are afraid of it.\"",
+            "\"The key to change... is to let go of fear.\"",
+            "\"He who is not everyday conquering some fear has not learned the secret of life.\"",
+            "\"We should all start to live before we get too old. Fear is stupid. So are regrets.\"",
+            "\"Don\u0027t let the fear of striking out hold you back.\"",
+            "\"Fear is the path to the Dark Side. Fear leads to anger, anger leads to hate, hate leads to suffering.\"",
+            "\"One of the greatest discoveries a man makes, one of his great surprises, is to find he can do what he was afraid he couldn\u0027t do.\"\n--Henry Ford",
+            "Courage is knowing what not to fear.",
+            "Do one thing every day that scares you.",
+            "Do not fear when I am here!!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

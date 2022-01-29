@@ -1,0 +1,54 @@
+[
+  {
+    "id": "93c3140f-d77c-4469-b485-69cd72ef0ae7",
+    "data": [
+      {
+        "text": "tell me motivational quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63707733-4888-4078-b70e-783bf9aa97a6",
+    "data": [
+      {
+        "text": "motivational quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93ef847d-3371-456e-a13b-76af4e945101",
+    "data": [
+      {
+        "text": "motivational talks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22fd5ff1-b9d7-4630-871e-e1bca202b909",
+    "data": [
+      {
+        "text": "Give me motivation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

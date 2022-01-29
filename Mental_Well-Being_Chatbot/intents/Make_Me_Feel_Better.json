@@ -1,0 +1,37 @@
+{
+  "id": "e3247ad2-f6bc-43bc-a00e-1c86ef938113",
+  "name": "Make_Me_Feel_Better",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am trying my best to do that.",
+            "That\u0027s is my goal as long as I live.",
+            "Would you like to hear a joke? If yes, type \"Tell me a joke\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

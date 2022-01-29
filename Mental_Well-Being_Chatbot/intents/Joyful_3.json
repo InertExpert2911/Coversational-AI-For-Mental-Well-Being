@@ -1,0 +1,129 @@
+{
+  "id": "41c450cf-84e1-4afc-9a0e-e64f6ff095e7",
+  "name": "Joyful_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b68fa746-8097-4a8f-9317-2a56bd08ac7c",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3d35c1e2-1bc6-4a80-ba4e-613c7f7275bd",
+          "name": "date-time1",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7fb27961-e1fb-4dee-abb1-135cde2ed4c7",
+          "name": "unit-currency",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "value": "$unit-currency",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a9efc2d7-115e-4488-9622-c2dc052343c9",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "54299ad4-5e7e-4c0f-8eba-1fb405481f98",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ab874d03-107b-4b6d-94ec-f78664928d10",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Instant gratification takes too long.",
+            "I admit that I live in the past, but only because housing is so much cheaper.",
+            "My parents said marrying was an optimistic thing to do in pessimistic times.",
+            "If you are not yelling at your kids, you are not spending enough time with them.",
+            "Laugh and the world laughs with you, snore and you sleep alone.",
+            "I always wanted to be somebody, but now I realize I should have been more specific.",
+            "I love mankind; it\u0027s people I can\u0027t stand.",
+            "All right everyone, line up alphabetically according to your height.",
+            "You\u0027re only as good as your last haircut.",
+            "No man has a good enough memory to be a successful liar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,441 @@
+[
+  {
+    "id": "f3b8a76d-97ee-4175-8618-86b82fb1b2f8",
+    "data": [
+      {
+        "text": "i do feel completely isolated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bf111f8-006c-40d6-b44c-ebcfd85f1f39",
+    "data": [
+      {
+        "text": "i didnt often feel helpless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3c0d163-e9e4-4304-9837-6a5105de8c3e",
+    "data": [
+      {
+        "text": "i didnt feel all too devastated until i saw people running from the smoke and all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1e6403b-0258-4afb-a2ee-eae3165b06db",
+    "data": [
+      {
+        "text": "i didn t know that i would feel so completely exhausted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1948e538-b044-4f27-9f53-a8243b5956d6",
+    "data": [
+      {
+        "text": "i didn t feel useless anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38e182a8-868d-49bf-87e5-a04a9be088bd",
+    "data": [
+      {
+        "text": "i didn t feel abused and quite honestly it made my day a little better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6418f86-41e1-4fb3-b30c-75d47ea5648e",
+    "data": [
+      {
+        "text": "i did things that i always wondered about and now feel remorseful for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9702dc5f-4e09-4b14-8edf-dddc3e322645",
+    "data": [
+      {
+        "text": "i did that ",
+        "userDefined": false
+      },
+      {
+        "text": "last night",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      },
+      {
+        "text": " and woke up feeling groggy until about lunch time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "787eee56-44b1-4c92-96c3-3afb9638a450",
+    "data": [
+      {
+        "text": "i did not realize how absolutely bad i was feeling with weight pain and the emotional toll until i was gluten free for weeks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe5224e5-5cfb-4645-8f91-9021449a2347",
+    "data": [
+      {
+        "text": "i did a sketch of ",
+        "userDefined": false
+      },
+      {
+        "text": "mikala",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " and started working on panel ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " but im feeling particularly drained ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe2f36a9-bce9-4bb4-b3e4-575a267682fe",
+    "data": [
+      {
+        "text": "i cry and feel heartbroken every month when i get my period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8dc4ef0-116e-4764-9f15-065474365593",
+    "data": [
+      {
+        "text": "i couldnt hellip even when it made my heart ache to simply look at you hellip because i loved you so much and i knew you would never return my feelings hellip and i couldnt bring myself to hate you for the idiotic stunt you pulled in the other room either though i do ask that you dont repeat it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "279eff72-c45b-4765-bdd2-3fb327d79ca0",
+    "data": [
+      {
+        "text": "i could think was i wonder how many days i have until i am feeling terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d17a27-0562-4bbf-be9f-bae95d699f8e",
+    "data": [
+      {
+        "text": "i constantly feel these fits of discontent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c87651e1-ddca-4c83-8235-715627d7a222",
+    "data": [
+      {
+        "text": "i confess to struggling ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " many times at the end of the day i would feel sad and whine to my af adorable fiance that i waaaant to eaaaat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a69fe43f-7eeb-44f5-abc7-497808b20ca9",
+    "data": [
+      {
+        "text": "i concluded that if my wife cheated on me with a man i would feel betrayed and devastated and my trust in her would plummet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a81c1c-6c09-48f7-81e7-dc61bbe8f734",
+    "data": [
+      {
+        "text": "i compare my insides to other people s outsides i feel inadequate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b01486b4-0132-4d6e-893d-5139529aa095",
+    "data": [
+      {
+        "text": "i choose not to feel guilty unworthy or doubted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e05f727c-4ba4-445d-afe8-420b6e19ce56",
+    "data": [
+      {
+        "text": "i cant sleep i switch on music if i need to wake up i switch on music if i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "morose",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " music it is that comes to my rescue whenever i feel ecstatic the tunes are by my side if i want to meet my wild side hail music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1191fae1-bf7c-427a-a803-b9476bc47729",
+    "data": [
+      {
+        "text": "i cant help but feel sentimental about the fact that we were drawn here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1226380c-a072-4e11-b41b-6cd07be13088",
+    "data": [
+      {
+        "text": "i cant give you an exact reason but the book left me feeling discouraged while the movie is uplifting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0af7ef4-4494-403e-8c36-b29e10a534f4",
+    "data": [
+      {
+        "text": "i cant feel remorseful for saying it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0512916d-9df8-47d8-bbc1-149eac4ed3b1",
+    "data": [
+      {
+        "text": "i cant even describe to you what it feels like when suffering from a life threatening disease how easy it is to just give in and answer those knocks of death at your lifes door",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd690820-de1a-4383-a03d-8947b4844f0e",
+    "data": [
+      {
+        "text": "i cant be sure if i subconsciously feel abit guilty for arguing with my mum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7729c223-b817-4961-96c0-e6b01219226e",
+    "data": [
+      {
+        "text": "i can talk to her about almost anything i want to and she just listens and she doesnt make me feel like a whiney brat and she helps me sort my thoughts and make decisions while keeping me where she feels im safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f68f0253-11d6-40bb-b1d9-1ae4c65ff15a",
+    "data": [
+      {
+        "text": "i can t help feeling a little punished for using a larger resolution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "842a0d2b-ebce-4df2-b758-3e5c2252a536",
+    "data": [
+      {
+        "text": "i can stop feeling discouraged or full of self pity when another wave crashes down on ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c3a484f-b8b6-4dcc-8a57-384af3558a17",
+    "data": [
+      {
+        "text": "i can run i can dress up in public for fun and i can be the center of attention without feeling humiliated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b34f591b-e593-49f6-b181-3549cd2d7b26",
+    "data": [
+      {
+        "text": "i can only feel rejected and tossed aside and hurt for so long before i get enough guts to just pick up and move on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

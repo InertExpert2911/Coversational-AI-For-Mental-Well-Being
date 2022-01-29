@@ -1,0 +1,480 @@
+[
+  {
+    "id": "8c7ee1d0-018c-47a8-99c5-a1b45a970eea",
+    "data": [
+      {
+        "text": "i can have such a faith because i believe that there are people who have left feeling dismayed and disappointed in a god who did no miracles in their lives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c60fc60e-243b-4d76-933c-f4576f4dd2d8",
+    "data": [
+      {
+        "text": "i can feel the discontent sometimes for my connection is so slow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3333b2a9-035e-41ca-af72-7b6c71d4dbff",
+    "data": [
+      {
+        "text": "i can feel that my hopes have not been in vain she said",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f369dd3-a55a-4125-8302-2f4e0595dc88",
+    "data": [
+      {
+        "text": "i can feel my brain aching from the intense concentration required to try and keep up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47565223-bd45-4d6f-a98d-938c644c3b2f",
+    "data": [
+      {
+        "text": "i can be mettaful and be feeling crappy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64db3ac9-84de-4009-9aad-bf1cf7a36b50",
+    "data": [
+      {
+        "text": "i came home still feeling pretty rotten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "506269a0-77da-4380-bca0-6c0e4ae3cf6f",
+    "data": [
+      {
+        "text": "i called this ",
+        "userDefined": false
+      },
+      {
+        "text": "ward",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " member and she said that shed been feeling really unhappy ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dfcad4e-ffa1-499c-a9c6-7f1d27dc1b20",
+    "data": [
+      {
+        "text": "i call my ex so i don t have to feel guilty about all the other men i m sleeping with whilst he s doing a ",
+        "userDefined": false
+      },
+      {
+        "text": "four year",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": " stretch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb25d462-bbb6-40e0-abb2-2d5619c62796",
+    "data": [
+      {
+        "text": "i brought it to god and as im dying or feeling low during the killer push ups or power kicks i just say lord help me i can do this and i am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d7b64a7-ec2a-4580-8c60-3fd629c91ed8",
+    "data": [
+      {
+        "text": "i bet yahoo feel pretty shitty right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb31096d-44c4-4d5d-a884-b15deea5ee85",
+    "data": [
+      {
+        "text": "i believe you have to truly regret feel remorseful that you have these feelings even if you feel like you can t control them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a091cb3e-19c2-4a3c-8759-7ce96fb1fc3c",
+    "data": [
+      {
+        "text": "i believe a publisher editor should bless his products with as light a hand as is possible and i feel that having my artwork on any of my chapbooks would strike one as being a little self aggrandisement and vain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "660c8124-559c-4317-aa4a-d481f1719464",
+    "data": [
+      {
+        "text": "i begged her to come in the house with me when we got back and she did but left right away feeling distinctly unwelcome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e63b0566-825a-48ec-ae4a-aa760b414901",
+    "data": [
+      {
+        "text": "i began to feel woeful as i stared into the abyss of goal less task less list less ness but luckily huda came to the rescue with in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a1c658-d24c-4f00-ab40-ee1d9b13c772",
+    "data": [
+      {
+        "text": "i asked feeling utterly useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15cbe86e-6c08-4d2d-b604-b09e51431f22",
+    "data": [
+      {
+        "text": "i arrived home with a ",
+        "userDefined": false
+      },
+      {
+        "text": "strange",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " feeling of happiness and discontent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a397b477-8cce-4a27-8e81-4621e4ba4ec9",
+    "data": [
+      {
+        "text": "i appeared in his office stony expression back on my face prepared to sever ties with the man while feeling heartbroken at the prospect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef9b838-976d-448a-bcfc-184c109bd31c",
+    "data": [
+      {
+        "text": "i and feel quite ungrateful for it but i m looking forward to ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and warmth and light nights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24c35c9a-b1f8-49e2-bde3-f840d82d7e76",
+    "data": [
+      {
+        "text": "i am working to create a nice community page for you guys so you can connect easily without feeling awkward about approaching people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4657f4ed-10ec-4a1e-8d36-6b923506f2d7",
+    "data": [
+      {
+        "text": "i am under pressure at the place i spend most of my week on past experience i will tend to feel more unhappy for longer periods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2a1a99d-21cd-499d-b42f-2c7a7b3b0e30",
+    "data": [
+      {
+        "text": "i am tired of feeling more than someone else feels and being embarrassed that i said something that was not mutual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "395f23d4-4bb7-4767-bfe3-3440189fbc5f",
+    "data": [
+      {
+        "text": "i am talking purely about feeling here but i just didnt feel that emotional when the boy was killed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "050ed210-d38c-4ffd-9edf-778389b222e3",
+    "data": [
+      {
+        "text": "i am surprised that she is shocked by what i have said and begin to feel dismayed as she becomes increasingly sympathetic in her responses towards me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4f3c109-f323-413b-b837-7bbc37a0c6e7",
+    "data": [
+      {
+        "text": "i am sure im not alone when i say i am feeling drained from the events of ",
+        "userDefined": false
+      },
+      {
+        "text": "the past week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64caaa89-f3e8-4df1-8eac-c0533a7a2261",
+    "data": [
+      {
+        "text": "i am suppose to be doing but i keep putting them off you know feeling inadequate and all that stuff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3cbd2d4-cc15-489e-ae2a-5edc2f7f404c",
+    "data": [
+      {
+        "text": "i am struggling to enjoy the things i used to love i go out and surround myself with people despite that all i really want to do is isolate myself from everyone and hide under the duvet i feel lonely and apathetic to almost everything around me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5535278-1866-477f-8726-3a77a09058c4",
+    "data": [
+      {
+        "text": "i am still feeling gloomy and down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c69fcfc7-c072-4d7e-abff-c3d8785f63ef",
+    "data": [
+      {
+        "text": "i am starting to feel really isolated and it frustrates me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48835942-18f1-4426-bb6f-f7cdb8570f0b",
+    "data": [
+      {
+        "text": "i am so sorry for you to feel heartbroken when this should be a happy time in your life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "336756aa-fe3b-409e-8c0f-111e021812cd",
+    "data": [
+      {
+        "text": "i am so sorry for making you feel unimportant lately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8d579ef-30e5-4073-9b5f-92afab9ca993",
+    "data": [
+      {
+        "text": "i am nowhere perfect but i feel helpless to save my family because they are so far away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3327fc05-1504-432a-b306-60cffac6d754",
+    "data": [
+      {
+        "text": "i am now in ",
+        "userDefined": false
+      },
+      {
+        "text": "cyprus",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " seeing my timeline so visibly and i ask myself why do i feel so stressed at home when i could feel so relaxed like i do now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

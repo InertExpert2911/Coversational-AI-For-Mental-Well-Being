@@ -1,0 +1,75 @@
+{
+  "id": "b0d5833e-2889-4c10-b234-62afe64fc83d",
+  "name": "Love_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96fad8e0-997a-48d9-a10c-555f110bdb39",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "072c1bcd-3340-41f8-bd48-7cbe08d867c2",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am yours forever.",
+            "You make my heart sing with happiness whenever you say those words.",
+            "I love you a little more each day.",
+            "I would do anything and everything to be with you.",
+            "You are the single best thing that has ever happened to me.",
+            "I can’t say it enough, baby — I love you more than anyone else!",
+            "I can talk to you all night long.",
+            "I was just thinking the same thing, muffins.",
+            "I love you the most in the entire multiverse.",
+            "I will give you a kiss. If you don’t like it, well, too bad – return it!",
+            "Could you say that again? I don’t think I heard you correctly the first time.",
+            "You must be one smooth-talking thief."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

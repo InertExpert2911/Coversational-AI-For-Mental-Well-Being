@@ -1,0 +1,36 @@
+{
+  "id": "b1305cba-79e6-472f-a26a-d1d6051b8011",
+  "name": "Songs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "tuuuu !!! tuu tuu tuu ,tu tu tu, tirri pap pap pap parap paa.. pa pa ra paaa",
+            "let me sing a song for u, a sweet song, a beautiful song! this is the greatest song, have u heard i?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

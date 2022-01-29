@@ -1,0 +1,145 @@
+[
+  {
+    "id": "250c2c4e-2b50-4d1b-a3db-634ab46b9816",
+    "data": [
+      {
+        "text": "Next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4108ece-b757-46dd-a5aa-b40a22c2ccec",
+    "data": [
+      {
+        "text": "I am Scared",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11b4a1c8-8b4d-46b6-b243-4b0ebde0c6c8",
+    "data": [
+      {
+        "text": "i am furious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a706ecf-1253-45e8-9e75-e7d4f450b486",
+    "data": [
+      {
+        "text": "i am jealous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f198e8b-ed20-4a33-92cb-546bf62cadb3",
+    "data": [
+      {
+        "text": "i am unhappy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aec36fc0-5e49-4ae1-b93a-b5fe5a3e38d4",
+    "data": [
+      {
+        "text": "i am anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40c9d024-bfc4-4a32-ac84-6dfd47c501d4",
+    "data": [
+      {
+        "text": "i am depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ee9bee-34d8-49b6-95ab-9f232097c715",
+    "data": [
+      {
+        "text": "i am stressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7e1a8b4-9d05-42b1-a4a6-f558ee0fce2b",
+    "data": [
+      {
+        "text": "i am happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ac5cd7-0743-45c6-8f8a-cbcc7da2e9ea",
+    "data": [
+      {
+        "text": "i am sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f99d9d4-188b-4a0e-8515-eb43df035333",
+    "data": [
+      {
+        "text": "i am angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

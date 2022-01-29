@@ -1,0 +1,681 @@
+[
+  {
+    "id": "6e69ebae-a4f5-4f4b-a19f-283f1097bf3f",
+    "data": [
+      {
+        "text": "i feel like such a crappy mom right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de72cd44-e7dd-42c3-9d14-0b4de67e71de",
+    "data": [
+      {
+        "text": "i feel like love should be messy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "061a5861-ab8b-492e-b9b5-482a51c16c08",
+    "data": [
+      {
+        "text": "i feel like it s totally vain and totally necessary at the same time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4d3c03d-108a-4615-8dd6-580164f9e89c",
+    "data": [
+      {
+        "text": "i feel like im perpetually half watching a sad movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81bf706c-50f9-4553-a6e7-8f3aaacbf894",
+    "data": [
+      {
+        "text": "i feel like im being punished for something that i didnt do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8272e17-d751-45d9-bfc2-7f13a2b0d8cc",
+    "data": [
+      {
+        "text": "i feel like im being punished for existing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "708b52f6-ee0d-4ffb-9948-a54f34ffa8aa",
+    "data": [
+      {
+        "text": "i feel like i have been sitting in this stupid chair for hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56e5b504-c9a3-4689-8e2a-5a4fe241d3b3",
+    "data": [
+      {
+        "text": "i feel like i have an ugly duck face when i see him",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed6d9c34-8341-4901-ab66-7be2f22ef250",
+    "data": [
+      {
+        "text": "i feel like an ungrateful asshole",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b5e290c-eb23-4851-9e62-59251dddbafe",
+    "data": [
+      {
+        "text": "i feel like a rag doll badly abused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b358aebe-806e-4ae6-81f1-bed87ebcd510",
+    "data": [
+      {
+        "text": "i feel less useless on ",
+        "userDefined": false
+      },
+      {
+        "text": "a day",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " like this lol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e70a135-6f13-4d75-8e50-bce012a0db0c",
+    "data": [
+      {
+        "text": "i feel it has damaged your relationship with tygerman and ours with each other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "992848ae-6e2f-4883-9121-0f1eae745878",
+    "data": [
+      {
+        "text": "i feel inhibited from spilling my",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7e9bdaa-8fa4-4743-8918-dc961b8f8685",
+    "data": [
+      {
+        "text": "i feel inadequate because it prompts comparison",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d1ee8bd-919c-424e-bc92-27b66bdddc36",
+    "data": [
+      {
+        "text": "i feel idiotic calling again though",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb9cfb2d-5aea-4d7e-8a60-7b06b38b0e11",
+    "data": [
+      {
+        "text": "i feel i ve had more unhappy years than happy ones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82094f95-d0af-4bec-bd40-aca3f40e86ec",
+    "data": [
+      {
+        "text": "i feel i am on an emotional roller coaster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "645fd841-db9c-4535-858d-21ea62a82bc9",
+    "data": [
+      {
+        "text": "i feel humiliated ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " as my children ran wild",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9daff9b0-4ce7-4157-87f6-bdc9f784577b",
+    "data": [
+      {
+        "text": "i feel honestly sorry for you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8f18702-8fe7-43e1-9662-b3e660bf50dc",
+    "data": [
+      {
+        "text": "i feel hated there but had to remind my selfish self that none of this was about me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ebfd0a7-3a2e-434b-bb67-c1012f945093",
+    "data": [
+      {
+        "text": "i feel guilty that s why",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "872bd08f-3207-4c32-90e5-2c369a4b630b",
+    "data": [
+      {
+        "text": "i feel guilty about feeling guilty over my health crisis when i am so damn lucky to be here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "beb228ec-a5ec-4ca6-a095-985801cb50a3",
+    "data": [
+      {
+        "text": "i feel guilty a little and also mildly worried but not bad enough to actually pursue anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31b0c082-7bb7-4c29-bd61-769ea7f0a8c9",
+    "data": [
+      {
+        "text": "i feel greatly humiliated by the beauty of everything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "646e166b-36f2-4312-bd59-dffcb6f14bec",
+    "data": [
+      {
+        "text": "i feel from no longer being burdened with those i have to tip toe around and be careful about what i am saying or feeling is unbelievable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa5cfe19-8727-4c55-a505-64430fe35543",
+    "data": [
+      {
+        "text": "i feel for the kids of troubled homes and i feel for the ones who could change that around",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b224e646-7bf9-4833-ab0a-58ae712ce28c",
+    "data": [
+      {
+        "text": "i feel foolish and miserable for getting drunk so easily",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7bc7abd-9c45-4fc6-9e99-a43014627174",
+    "data": [
+      {
+        "text": "i feel far less lonely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "513d942d-2d4e-487d-9ddb-c27a1adad018",
+    "data": [
+      {
+        "text": "i feel extremely shitty ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a86a72f5-e95b-401e-a898-d3bb18a16ff4",
+    "data": [
+      {
+        "text": "i feel excluded and worthless my connection to everyone summarily cut off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4720a87-9e9d-48d4-9d1f-4727aaa2e190",
+    "data": [
+      {
+        "text": "i feel especially troubled is the fact that these ",
+        "userDefined": false
+      },
+      {
+        "text": "israelis",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " arguably constitute the section of society most inclined to reach a deal with the palestinians",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feacb7ac-3837-448b-8c18-0393712ded3c",
+    "data": [
+      {
+        "text": "i feel empty and i wait for new signs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b70af5bb-b186-415d-8aa5-b91910d5432e",
+    "data": [
+      {
+        "text": "i feel embarrassed writing about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "410c8910-7759-4203-9b00-7c2788564ed0",
+    "data": [
+      {
+        "text": "i feel discouraged and realize face palm that i need to look at things with a different perspective to be grateful about anything i can find",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2350be6-6250-4a49-9b82-ce32f219fa5d",
+    "data": [
+      {
+        "text": "i feel dirty and ashamed for saying that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "650c5b8b-f831-45d9-b5c9-360bee780941",
+    "data": [
+      {
+        "text": "i feel depressed i am in despair why does it have to be this way why didn t they start treatment earlier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13d0163a-00e0-4199-8543-34ef209b697d",
+    "data": [
+      {
+        "text": "i feel defeated conflicted poor lonely rejecte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db505f86-2c27-4405-9e94-002426cf7678",
+    "data": [
+      {
+        "text": "i feel cheated and at another i feel ashamed to have missed such a glaring defect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9a44dc3-02a4-4578-8ed7-0f7670cd159f",
+    "data": [
+      {
+        "text": "i feel broke inside but i won t admit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5a45039-1f6c-44db-9f87-cb72c466419a",
+    "data": [
+      {
+        "text": "i feel beaten and discouraged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da4f91cf-7ac1-4151-9c2e-a69c74dd7b58",
+    "data": [
+      {
+        "text": "i feel bad that i dont have a groupie shot with ",
+        "userDefined": false
+      },
+      {
+        "text": "dan",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b65750cb-fe02-45ed-8019-6a68637ceeea",
+    "data": [
+      {
+        "text": "i feel bad saying that and like its just an excuse or something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb869d7b-8510-40d4-936e-05b09bdbb908",
+    "data": [
+      {
+        "text": "i feel awful still but really",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98c3fcde-2b2a-4cc9-aa0e-736721fc85ed",
+    "data": [
+      {
+        "text": "i feel assaulted by all directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9476ed7d-a28f-4f18-82f1-47e8877d152a",
+    "data": [
+      {
+        "text": "i feel as though my descriptions are skimmable and unimportant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f89db09-650c-437e-9784-f90adb9b483d",
+    "data": [
+      {
+        "text": "i feel as though im doomed to finding a man",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b32d4a58-9a65-44ec-8acd-72cbda8ff5bc",
+    "data": [
+      {
+        "text": "i feel as though i am boring or a bit dull because it is hard to keep up with her energy and i do not want her to get the wrong impression",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43aa0303-d370-4b82-80c3-4bf2f3ecb88c",
+    "data": [
+      {
+        "text": "i feel as if i am being punished for using your adsense and affiliate products and for the success of my website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e9bcb82-93ce-4891-bdc4-ba356244628a",
+    "data": [
+      {
+        "text": "i feel as if he was getting beaten to areas of the ice a defenseman shouldn t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

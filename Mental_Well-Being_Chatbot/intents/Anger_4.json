@@ -1,0 +1,84 @@
+{
+  "id": "24e2c115-340f-48d9-a8f2-78ecb4327b70",
+  "name": "Anger_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "47f7f137-da25-46d9-9294-b478502f9269",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "50518f2e-4b78-4967-b4e9-85272f654166",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e3341a3-d932-44d4-96e1-19ce5a46b0f5",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The best fighter is never angry.. Your the best fighter\n so please calm down dear",
+            "please calm down my friend",
+            "Write it down\nIf you’re too angry or anxious to talk about it, grab a journal and write out your thoughts and correct them if you were wrong",
+            "Get some fresh air. Not only will the fresh air help calm you down, but also the change of scenery can sometimes interrupt your anxious or angry thought process.",
+            "Fuel your body.f you’re hungry or not properly hydrated, many of these techniques won’t work. That’s why it’s important to slow down and get something to eat — even if it’s just a small snack",
+            "Drop your shoulders .Sit up tall, take a deep breath, and drop your shoulders You can do this several times a day.",
+            "Identify pressure points to calm anger and anxiety"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

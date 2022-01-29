@@ -1,0 +1,118 @@
+{
+  "id": "8a379f61-f08e-4640-a2a1-e4aa98dcd88e",
+  "name": "Joyful_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ee0ff13-5133-4507-8f76-d2d230b364c7",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "61dc872c-8bd9-42fd-8cc1-1498c859c073",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b6e145e5-a87e-468f-af8a-7e0f16ba7b51",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b9ee0577-cde3-431c-b382-ab3bdb87732d",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "437a4470-03cb-4a44-9abe-dfa7613fa22a",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Never do anything out of hunger. Not even eating.",
+            "To call you stupid would be an insult to stupid people!",
+            "Why do they call it rush hour when nothing moves?",
+            "“I remember it like it was yesterday. Of course, I don’t really remember yesterday all that well.",
+            "I grew up with six brothers. That’s how I learned to dance: waiting for the bathroom.",
+            "Never put off till tomorrow what you can do the day after tomorrow just as well.",
+            "Woke up today. It was terrible.",
+            "The worst part of online shopping is having to get up and get your credit card from your purse.",
+            "Money cannot buy health, but I’d settle for a diamond-studded wheelchair.",
+            "Outside of a dog, a book is man’s best friend. Inside of a dog, it’s too dark to read.",
+            "I like long walks, especially when they are taken by people who annoy me.",
+            "Trying is the first step toward failure.",
+            "I have a lot of growing up to do. I realized that the other day inside my fort."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

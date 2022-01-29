@@ -1,0 +1,99 @@
+{
+  "id": "da5a606a-f176-424e-85b0-d1d61e7cde5a",
+  "name": "Fear_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c455c1f2-7f8d-46d2-a49c-e5bbe6e7a52e",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5482f5f1-2eaa-45a3-aa0b-5f961d766fed",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b0e3bf81-4141-492d-9fbe-6f165d8a85c2",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "41795263-1343-4c9d-9e85-fad8c203580d",
+          "name": "person1",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Take time out.\nIt\u0027s impossible to think clearly when you\u0027re flooded with fear or anxiety. The first thing to do is take time out so you can physically calm down.",
+            "Breathe through panic.\nIf you start to get a faster heartbeat or sweating palms, the best thing is not to fight it",
+            "Face your fears.\nAvoiding fears only makes them scarier. Whatever your fear, if you face it, it should start to fade. If you panic one day getting into a lift, for example, it\u0027s best to get back into a lift the next day.",
+            "Imagine the worst.\nTry imagining the worst thing that can happen – perhaps it\u0027s panicking and having a heart attack. Then try to think yourself into having a heart attack. It\u0027s just not possible. The fear will run away the more you chase it.",
+            "Look at the evidence.\nIt sometimes helps to challenge fearful thoughts. For example, if you\u0027re scared of getting trapped in a lift and suffocating, ask yourself if you have ever heard of this happening to someone. Ask yourself what you would say to a friend who had a similar fear.",
+            "Don\u0027t try to be perfect.\nLife is full of stresses, yet many of us feel that our lives must be perfect. Bad days and setbacks will always happen, and it\u0027s important to remember that life is messy.",
+            "Visualise a happy place\nTake a moment to close your eyes and imagine a place of safety and calm. It could be a picture of you walking on a beautiful beach, or snuggled up in bed with the cat next to you, or a happy memory from childhood. Let the positive feelings soothe you until you feel more relaxed.",
+            "Talk about it.\nSharing fears takes away a lot of their scariness. If you can\u0027t talk to a partner, friend or family member, call a helpline such as Breathing Space on 0800 83 85 87 or Samaritans on 116 123."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

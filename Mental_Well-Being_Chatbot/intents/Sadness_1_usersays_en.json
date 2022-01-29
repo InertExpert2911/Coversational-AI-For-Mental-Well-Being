@@ -1,0 +1,500 @@
+[
+  {
+    "id": "cd2f4e5a-8915-475b-bf47-8bd5f97fc588",
+    "data": [
+      {
+        "text": "i am left feeling underwhelmed and ungrateful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2e7d921-056f-45a9-9214-015de2035907",
+    "data": [
+      {
+        "text": "i am fighting with all my might to not feel defeated from the sinus allergy situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bc8bfab-2132-495e-9ab2-1a5551128da4",
+    "data": [
+      {
+        "text": "i am feeling so sad right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aee3648-ea66-4192-ae97-611aecfd34d8",
+    "data": [
+      {
+        "text": "i am feeling so helpless ma i am being unable to fight your illness i am being unable to take you out from that pain i feel helpless ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2077d5ef-133b-413b-abd9-07a3cc2e7444",
+    "data": [
+      {
+        "text": "i am feeling rejection low self esteem and purposeless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dd98c44-0087-4cbe-b130-43d0637f979f",
+    "data": [
+      {
+        "text": "i am feeling pretty guilty about posting pictures of some stray cat i cuddled on the street and not even posting pictures of my own ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " cats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2f74fb-b341-402c-b492-721a05680d0c",
+    "data": [
+      {
+        "text": "i am feeling neglectful i feel like i should have stayed for ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " but i could not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fc1ff88-d3b2-4d2d-bcb5-8095419b9649",
+    "data": [
+      {
+        "text": "i am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "morose",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " for i have been reading wuthering heights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "048d1def-49a8-408d-898b-00e3e0cfde9a",
+    "data": [
+      {
+        "text": "i am feeling isolated with this infection as i have not told any of my friends only my sister and my mother who do not live close to me therefore feel i don t have anyone to talk to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56aef627-d6ed-41f4-b59a-7081a9509e94",
+    "data": [
+      {
+        "text": "i am feeling extremely disturbed and distressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "740bc7b4-456e-434a-8a8b-811ffad76c85",
+    "data": [
+      {
+        "text": "i am feeling extremely devastated right now because ebloggy does not work just when the mental sewage system is clogged up its diarrhoea time and there is no virtual toilet paper in sight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1955472-dcaa-40c5-9f1b-8a04f5726188",
+    "data": [
+      {
+        "text": "i am feeling awfully lonely ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and i dont want to burden any particular person with this because everyone has their own shit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09a5ec61-4f26-4200-80dc-a8606a8b188e",
+    "data": [
+      {
+        "text": "i am feeling a little disheartened",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9820b1ca-3df8-42ff-b87a-f83dfd3daef5",
+    "data": [
+      {
+        "text": "i am feeling a bit discouraged but am hopefull the bees will know what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7855fe7a-5754-4b8a-bc8a-d2918969d518",
+    "data": [
+      {
+        "text": "i am definitely feeling a bit melancholy but ill save the reflections for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bead59dc-9b19-4550-b0e7-5508f58a5000",
+    "data": [
+      {
+        "text": "i am continually having to dig deep within myself to push forward to do more and right now im feeling an awful like its not getting me much of anywhere and all the extra energy has been completely wasted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25672244-5b79-4a59-97d3-50516a8f093a",
+    "data": [
+      {
+        "text": "i am afraid of my emotions because certain people cause me to feel assaulted by feeling and i just get hammered by their waves as if i am an tempestuous ocean raging and only god knows why",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47017a3c-6378-4056-b01d-deac8a3a615a",
+    "data": [
+      {
+        "text": "i am actually quite likes this kind of busy feeling just because i am forget every unhappy things then i wont keep on think of it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21f044c8-dbac-4e40-b467-b0be651fe725",
+    "data": [
+      {
+        "text": "i always feel so inadequate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73fc6a5b-ba56-4547-88f1-bbcd3b870f43",
+    "data": [
+      {
+        "text": "i always feel regretful ",
+        "userDefined": false
+      },
+      {
+        "text": "a few weeks after",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99bd01ba-33da-41ad-9d3e-56e503943099",
+    "data": [
+      {
+        "text": "i always feel guilty and come to one conclusion that stops me ",
+        "userDefined": false
+      },
+      {
+        "text": "emily",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " would be so disappointed in me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e502841e-2020-4429-8c43-870a5e60997f",
+    "data": [
+      {
+        "text": "i alternate between feeling embarrassed and excited that my almost teen sister and i share some similar interests in books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee829bee-61c6-4fe7-9f7d-f3deb7cfbe23",
+    "data": [
+      {
+        "text": "i also feel it is unfortunate that nearly all the readers of going to meet the man will be african americans unlike myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeba3dc9-87e0-48de-ad68-700dcdea9171",
+    "data": [
+      {
+        "text": "i also feel ashamed at the hurt caused and ashamed at the things ive done that were not in my character and were down to being manic or whatever you want to call it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fccf1911-09be-48db-aed8-cd22b89620a6",
+    "data": [
+      {
+        "text": "i already did feel deprived when after ",
+        "userDefined": false
+      },
+      {
+        "text": "claire",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " was born i reacted to the epidural and experienced extreme shakes for ",
+        "userDefined": false
+      },
+      {
+        "text": "a couple of hours",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": " and was unable to hold her during that special quiet alertness newborns experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "769caea9-2280-4166-aa12-b0acd5c51f50",
+    "data": [
+      {
+        "text": "i allowed myself to eat foods that i know bother me because after all since i feel awful it may as well have come as a direct result of eating something i enjoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b31fbaac-2174-4f14-81f3-10f6176280cd",
+    "data": [
+      {
+        "text": "i agree with that overall life philosophy but sometimes people and even kids need their negative emotions acknowledged so that they don t feel ignored and negated in what they are truly feeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8007fa7b-3971-4468-b068-8623436655f7",
+    "data": [
+      {
+        "text": "i add ",
+        "userDefined": false
+      },
+      {
+        "text": "ciaran",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " and his feelings into all of this it becomes a very messy oozing and uncomfortable topic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7586b01-3564-4e95-a208-6693495d4d61",
+    "data": [
+      {
+        "text": "i accept the medication until i dont feel too troubled by those i will never have the full benefices from them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a546e512-4b38-431f-bc46-bb7d92e93e6d",
+    "data": [
+      {
+        "text": "i absolutely love working and the feeling of accomplishment i get from it but i am tangibly physically unhappy with the family life i am missing right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

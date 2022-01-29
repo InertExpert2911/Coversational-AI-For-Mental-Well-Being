@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3d20dbed-5e3a-4e48-a2df-b29d51f23496",
+    "data": [
+      {
+        "text": "I am waste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5aca268-2ead-4b77-9cb4-e15eeded19ed",
+    "data": [
+      {
+        "text": "I am useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

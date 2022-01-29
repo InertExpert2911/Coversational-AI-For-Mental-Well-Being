@@ -1,0 +1,41 @@
+{
+  "id": "944bed91-281a-4b73-b215-c483ab7c91cf",
+  "name": "Motivational_Quotes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All our dreams can come true, if we have the courage to pursue them.",
+            "The secret of getting ahead is getting started.",
+            "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.",
+            "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "Only the paranoid survive.",
+            "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
+            "Everything you can imagine is real."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

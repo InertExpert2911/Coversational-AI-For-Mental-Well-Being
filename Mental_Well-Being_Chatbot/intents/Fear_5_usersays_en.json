@@ -1,0 +1,540 @@
+[
+  {
+    "id": "e4094e23-fc0b-4a39-8eb2-970ae55a23fc",
+    "data": [
+      {
+        "text": "i remember feeling nervous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67f1064c-01d5-4e5e-93a2-b9580561a43e",
+    "data": [
+      {
+        "text": "i often feel confused as to whether i have bipolar or just a really hard core sinful nature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2576f1c4-b3d3-442f-8d38-517a65d51515",
+    "data": [
+      {
+        "text": "i notice how different this question is from why i am feeling so agitated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48b893d0-7932-4e84-8860-889af0c2ebc0",
+    "data": [
+      {
+        "text": "i normally find intimidating but shes crazy about tiny little foreign food places and people like her so i feel less socially intimidated when im with her",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfb8d926-375e-4309-9914-66a96d1a20aa",
+    "data": [
+      {
+        "text": "i never feel shy to call or send ",
+        "userDefined": false
+      },
+      {
+        "text": "a billion",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " text messages to and i wont be bugging her",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "767e0265-eff9-4f59-a33f-e143078cb3b3",
+    "data": [
+      {
+        "text": "i never draw on both sides of the pages and like to know i can add to drawings when i feel like it rather than feeling pressured that they have to be finished all in one go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6a55f6d-8c04-487b-a872-0ab0619cf535",
+    "data": [
+      {
+        "text": "i must confess that im still feeling very uncertain about how god is going to work everything out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4169ac2d-d19e-4e05-9608-1c9143686b45",
+    "data": [
+      {
+        "text": "i mentioned in my last blog that i have started to get the feeling that i have been pressured into studying things i do not like which has also made me into a person i might not fully be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e4f8a62-c3e7-4176-a382-906c89660101",
+    "data": [
+      {
+        "text": "i managed to re learn feeling insecure again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dcd383a-f4f0-4353-8b63-bd4ca2ddc5ac",
+    "data": [
+      {
+        "text": "i love to dance but often feel inhibited by my own body unsure what i am capable of hyper concerned about other people watching me and having opinions on my style or just feeling awkward as if i have no idea what i am supposed to do here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5de7873-e8b0-478c-becd-5147beb5a716",
+    "data": [
+      {
+        "text": "i looked at ",
+        "userDefined": false
+      },
+      {
+        "text": "mabel",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this morning",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      },
+      {
+        "text": " i named my left breast ",
+        "userDefined": false
+      },
+      {
+        "text": "mabel",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " my right one is ",
+        "userDefined": false
+      },
+      {
+        "text": "hazel",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " and i feel this weird mixture of anger and loss valerie wrote less than a month after her diagnosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35dc8e84-64c2-47e5-b364-d9f7f2b1b028",
+    "data": [
+      {
+        "text": "i look over and to my utter horror i see a man holding the elevator door open instead of feeling terrified or even telling the guy to get off the elevator i imagine the elevator chewing on him like a metallic pacman not pacquiao the other yellow guy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef864629-08a0-458c-8049-7ed9c4811403",
+    "data": [
+      {
+        "text": "i lift different now because it hurt so bad the day it happened that i can t get it out of my mind and i feel myself being a bit timid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f742864-f79a-4c14-9ead-193a982a94b4",
+    "data": [
+      {
+        "text": "i li pouring down in the corner under the moonlight shines on his face i saw his pale face and mouth with ",
+        "userDefined": false
+      },
+      {
+        "text": "half",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " closed eyes bear people feel more distressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "796dc937-51b3-470e-9216-4e0e93171996",
+    "data": [
+      {
+        "text": "i knowing that to this day still makes her feel not shy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21c3ff5-db47-4d5e-acb4-d9ef62f0cbb0",
+    "data": [
+      {
+        "text": "i know what you mean about feeling agitated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38a2799b-b038-48c4-b8ad-1043ddf407c0",
+    "data": [
+      {
+        "text": "i know what it feels like to be scared into something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7267866-e34b-4e3a-a71f-cf53aa0d0f5c",
+    "data": [
+      {
+        "text": "i know that i have it nowhere near as worse as my brethren overseas but right now i feel like im being physically emotionally and spiritually assaulted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42676a6d-7886-43ef-9e52-fe9d9626e0e0",
+    "data": [
+      {
+        "text": "i know i feel vulnerable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a05924b5-04b7-487c-8b6c-ef3547b52718",
+    "data": [
+      {
+        "text": "i know how that feels weird right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57da03c4-7f28-4f28-8785-5f84dbc0675b",
+    "data": [
+      {
+        "text": "i just went about my script of would you like mustard or sauce with that and started to feel really startled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14e9fadd-f59e-465b-bf7c-18476935971a",
+    "data": [
+      {
+        "text": "i just feel you so so dont be afraid and pray again i need you go back in time forgive my sins so so sloth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29316598-e058-4503-afc1-5722d6b5a053",
+    "data": [
+      {
+        "text": "i indicated then i was feeling quite overwhelmed with work responsibilities teaching traveling and writing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca456ce-c4ce-4fa8-b638-b53bee8f7175",
+    "data": [
+      {
+        "text": "i honestly feel extremely shy to ask my friends to take pictures of me how vain must they think i am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb1fd93c-08bc-4a30-aecd-36ee5cb77ea9",
+    "data": [
+      {
+        "text": "i have tried sorting out the area for the cat houses this lunchtime but i guess after the printer ordeal i am feeling quite uptight so it has been put on hold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12c1752f-52a3-4bb0-bfe5-af3fb694ef99",
+    "data": [
+      {
+        "text": "i have to take jenny in to be spayed so of course im feeling nervous and guilty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e98f71df-16c7-4fc6-a02c-d566263f50ed",
+    "data": [
+      {
+        "text": "i have reported feeling marginalized intimidated and or subjected to threats of retaliation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74745a78-4335-491b-b91c-30d6b81f806e",
+    "data": [
+      {
+        "text": "i have moments where i just feel so overwhelmed that my eyes well up with tears",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ea1dc03-db65-4417-82cc-711aeecafbac",
+    "data": [
+      {
+        "text": "i have learned how to present in front of a class without feeling nervous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c51bd55c-ec53-412f-ae49-f3e1f1c1f8b6",
+    "data": [
+      {
+        "text": "i have been feeling shaky ",
+        "userDefined": false
+      },
+      {
+        "text": "this morning",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      },
+      {
+        "text": " after taking them as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af700d62-d4ae-4728-b470-6680a915d377",
+    "data": [
+      {
+        "text": "i have asthma and when i can barely breathe when it s hard i feel very shaky and weak i feel like not doing anything but lie there helplessly and i feel like collapesing i did so much reseach and i got nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "534d7dcd-6d8a-49f8-8212-3870a9f5cadb",
+    "data": [
+      {
+        "text": "i have a lot going on in my life and feel overwhelmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0ddbbda-87c1-4a78-82d2-a154629b47b5",
+    "data": [
+      {
+        "text": "i hate it when i feel fearful for absolutely no reason",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b13b95d1-21a7-4702-a850-d84c258eef67",
+    "data": [
+      {
+        "text": "i had just hiked up and down a long steep hillside loaded with grass and bushes so i was feeling pretty doubtful id be able to find it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7080ccd0-d74b-427a-89ac-feb1a0b19051",
+    "data": [
+      {
+        "text": "i had encountered before and as much as these dreams thrilled me they left me feeling even more terrified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9de4fed-424b-45dc-8158-ef8d76db2752",
+    "data": [
+      {
+        "text": "i guess feelings aren t meant to be inhibited or prohibited",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
